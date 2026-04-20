@@ -56,7 +56,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
                 { name: "Anna Backman", role: "Aktuarie", photo: "photos/anna.jpg",
                   bio: "Arbetar med prissättning av katt- och hundförsäkringar i Finland och tar fram datadrivna analyser kring lönsamhet, kundbeteende och tillväxt. 🎿 Tävlade i skidskytte som yngre och var uttagen till ungdoms-SM!" },
                 { name: "Magnus Rosqvist Johansson", role: "Aktuarie", photo: "photos/magnus.jpg",
-                  bio: "Arbetar med prissättning med fokus på Tyskland och Danmark, och jobbar även med den nya prismotorn. Har tidigare varit professionell pokerspelare." },
+                  bio: "Arbetar med prissättning med fokus på Tyskland och Danmark, och jobbar även med den nya prismotorn." },
                 { name: "Stephanie Bergström", role: "Aktuarie", photo: "photos/stephanie.jpg",
                   bio: "Prissättningsaktuarie som ansvarar för prissättning och lönsamhetsanalyser för Sverige och Norge. Tar fram analyser och modeller som hjälper affären sätta rätt pris för rätt segment. 🥋 Har precis börjat med karate, oväntat kul och mycket skratt!" },
                 { name: "Veronicka Hjorter", role: "Functional Lead Pricing & Reserving", photo: "photos/veronicka.JPG",
@@ -90,11 +90,11 @@ Lär känna oss genom att spela Finn 5 Fel!`
             description: `Våra controllers ansvarar för finansiell uppföljning, budgetering och rapportering. De håller koll på siffrorna och ser till att allt stämmer.`,
             members: [
                 { name: "Camilla Jansson", role: "Controller", photo: "photos/camilla.jpg",
-                  bio: "✏️ Lägg till text" },
+                  bio: "Har varit på Agria sedan 2016 och jobbar som business controller med fokus att stötta både Sverige och Europa med prognoser och uppföljning. På fritiden gillar jag att pyssla i trädgården och träna cross fit!t" },
                 { name: "Jonas Bjerre", role: "Business Controller", photo: "photos/jonas.jpg",
                   bio: "Arbetar som Business Controller. 🎵 På fritiden sjunger jag i kör och var med som fiskare i Franz von Suppés opera Bellman på Södra Teatern." },
                 { name: "Daniel Gärde", role: "Controller", photo: "photos/daniel.jpg",
-                  bio: "✏️ Lägg till text" }
+                  bio: "Har varit på Agria sedan september 2025 och jobbar som Business Controller med fokus på Utvecklingsorganisationen. Gillar att flugfiska i strömmande vatten och försöker få till en resa om året upp till fjällen för att göra det." }
             ],
             photo: "",
             x: 87, y: 30, width: 10, height: 5
