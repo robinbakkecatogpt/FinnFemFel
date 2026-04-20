@@ -90,7 +90,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
             description: `Våra controllers ansvarar för finansiell uppföljning, budgetering och rapportering. De håller koll på siffrorna och ser till att allt stämmer.`,
             members: [
                 { name: "Camilla Jansson", role: "Controller", photo: "photos/camilla.jpg",
-                  bio: "Har varit på Agria sedan 2016 och jobbar som business controller med fokus att stötta både Sverige och Europa med prognoser och uppföljning. På fritiden gillar jag att pyssla i trädgården och träna cross fit!t" },
+                  bio: "Har varit på Agria sedan 2016 och jobbar som business controller med fokus att stötta både Sverige och Europa med prognoser och uppföljning. På fritiden gillar jag att pyssla i trädgården och träna cross fit!" },
                 { name: "Jonas Bjerre", role: "Business Controller", photo: "photos/jonas.jpg",
                   bio: "Arbetar som Business Controller. 🎵 På fritiden sjunger jag i kör och var med som fiskare i Franz von Suppés opera Bellman på Södra Teatern." },
                 { name: "Daniel Gärde", role: "Controller", photo: "photos/daniel.jpg",
