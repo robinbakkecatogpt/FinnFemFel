@@ -73,7 +73,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
             members: [
                 { name: "Stina Backerholm", role: "Dataanalytiker", photo: "photos/stina.jpg",
                   bio: "Jobbar som dataanalytiker med att ta ut data, bygga rapporter i SAS VA och göra analyser. 🧁 Bakar mycket och odlar grönsaker på balkongen." },
-                { name: "Thomas Johansson", role: "Dataanalytiker", photo: "photos/thomas.jpg",
+                { name: "Thomas Johansson", role: "Dataanalytiker", photo: "photos/thomas.jpg", photoPosition: "center center",
                   bio: "Extraherar och tillhandahåller data via GIPS-beställningar, automatiserar datauttag och driver robotisering (RPA) av månadsprocesser. Dokumenterar och granskar rapporter i SAS. 🏒 Gillar Leksand och streaming." },
                 { name: "Fredrik Käll", role: "Dataanalytiker", photo: "photos/fredrik.jpg",
                   bio: "Bidrar till att verksamhet, aktuarier och analytiker har rätt datagrund för analyser och uppföljning. Pluggar AI vid sidan av jobbet." },
