@@ -76,7 +76,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
                 { name: "Thomas Johansson", role: "Dataanalytiker", photo: "photos/thomas.jpg",
                   bio: "Extraherar och tillhandahåller data via GIPS-beställningar, automatiserar datauttag och driver robotisering (RPA) av månadsprocesser. Dokumenterar och granskar rapporter i SAS. 🏒 Gillar Leksand och streaming." },
                 { name: "Fredrik Käll", role: "Dataanalytiker", photo: "photos/fredrik.jpg",
-                  bio: "✏️ Lägg till text" },
+                  bio: "Bidrar till att verksamhet, aktuarier och analytiker har rätt datagrund för analyser och uppföljning. Pluggar AI vid sidan av jobbet." },
                 { name: "Malin Varenius", role: "Functional Lead Data & Analysis", photo: "photos/malin.jpg",
                   bio: "Functional Lead för Data & Analys — ser till att verksamhet, aktuarier och analytiker har tillförlitligt data till analyser och uppföljning. 🏃‍♀️ Har betat av halvmaraton i både Ibiza och Pula det senaste året!" }
             ],
