@@ -52,7 +52,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
                 { name: "Jarl Sigurdsson", role: "Aktuarie", photo: "photos/jarl.jpg",
                   bio: "Arbetar som prissättningsaktuarie på Agria sedan januari 2022. Är för närvarande föräldraledig och tar hand om sina två killar fram till mitten av september" },
                 { name: "Robin Bakke Cato", role: "Aktuarie", photo: "photos/robin.jpg",
-                  bio: "Jag började på Agria i julas och jobbar med reservsättning. ⚔️ Utanför jobbet är jag intresserad av vikingar och nordisk mytologi. Extra intressant är att mycket i tv-serien Vikings faktiskt bygger på personer, händelser och berättelser från historien!" },
+                  bio: "Började på Agria i julas och jobbar med reservsättning. ⚔️ Har ett intresse för vikingar och nordisk mytologi. Extra kul är att mycket i tv-serien Vikings faktiskt bygger på personer, händelser och berättelser från historien!" },
                 { name: "Anna Backman", role: "Aktuarie", photo: "photos/anna.jpg",
                   bio: "Arbetar med prissättning av katt- och hundförsäkringar i Finland och tar fram datadrivna analyser kring lönsamhet, kundbeteende och tillväxt. 🎿 Tävlade i skidskytte som yngre och var uttagen till ungdoms-SM!" },
                 { name: "Magnus Rosqvist Johansson", role: "Aktuarie", photo: "photos/magnus.jpg",
