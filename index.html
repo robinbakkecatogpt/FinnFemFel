@@ -424,7 +424,7 @@
             box-shadow: 0 3px 12px rgba(0,47,108,0.12);
             background-color: #dce4ed;
             background-size: cover;
-            background-position: center center;
+            background-position: center top;
             background-repeat: no-repeat;
         }
 
@@ -1125,7 +1125,7 @@
                 const bioHtml = m.bio ? `<div class="person-card-bio">${m.bio}</div>` : '';
                 html += `
                     <div class="person-card">
-                        <div class="person-card-photo" data-src="${m.photo}" data-initials="${initials}"></div>
+                        <div class="person-card-photo" data-src="${m.photo}" data-initials="${initials}" data-pos="${m.photoPosition || ''}"></div>
                         <div class="person-card-initials" style="display:none;">${initials}</div>
                         <div class="person-card-name">${m.name}</div>
                         <div class="person-card-role">${m.role}</div>
@@ -1140,6 +1140,7 @@
                     const img = new Image();
                     img.onload = () => {
                         div.style.backgroundImage = `url('${div.dataset.src}')`;
+                        if (div.dataset.pos) div.style.backgroundPosition = div.dataset.pos;
                     };
                     img.onerror = () => {
                         div.style.display = 'none';

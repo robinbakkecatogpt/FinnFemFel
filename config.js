@@ -105,7 +105,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
             type: "group",
             description: `Ledningsgruppen sätter riktningen för avdelningen och ser till att vi levererar värde till hela Agria.`,
             members: [
-                { name: "Ulrika Nordin", role: "Head of Control & Analysis", photo: "photos/ulrika.jpg",
+                { name: "Ulrika Nordin", role: "Head of Control & Analysis", photo: "photos/ulrika.jpg", photoPosition: "center center",
                   bio: "Leder gruppen Control & Analys och har jobbat på Agria sedan februari 2021. 🏡 På fritiden gärna i rörelse utomhus — och har blivit en fena på att skrapa, grundmåla och måla sedan de skaffade fritidshus, gärna med ljudbok i örat!" },
                 { name: "Erik Landén", role: "CFO", photo: "photos/erik.jpg",
                   bio: "CFO på Agria som leder CFO-avdelningen, har jobbat här sedan 2023. 🥞 Specialkompetens: steka pannkakor – över 1 000 stycken per år!" }
