@@ -35,7 +35,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
     },
 
     // Utvecklarläge: visa hjälplinjer- och klickzons-knappar (true/false)
-    devMode: true,
+    devMode: false,
 
     // Bilder (byt ut mot era riktiga bilder)
     originalImage: "Original.png",
