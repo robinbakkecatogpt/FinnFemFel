@@ -26,10 +26,10 @@ const CONFIG = {
 
     // Välkomsttext (visas via "Om oss"-knappen)
     intro: {
-        heading: "Välkommen till Control & Analys!",
+        heading: "Välkommen till CFO-avdelningen och gruppen Control & Analys!",
         text: `Vi är avdelningen för Control & Analys på Agria Djurförsäkring. Här jobbar vi med allt från aktuariella beräkningar och prissättning till dataanalys, controlling och finansiell uppföljning.
 
-Vi är 15 personer med bred kompetens som tillsammans säkerställer att Agria kan erbjuda rätt försäkringsskydd till rätt pris.
+Vi är 15 personer med bred kompetens som tillsammans stödjer Agria att nå högt satta mål och kan erbjuda rätt försäkringsskydd till rätt pris.
 
 Lär känna oss genom att spela Finn 5 Fel!`
     },
@@ -106,7 +106,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
             description: `Ledningsgruppen sätter riktningen för avdelningen och ser till att vi levererar värde till hela Agria.`,
             members: [
                 { name: "Ulrika Nordin", role: "Head of Control & Analysis", photo: "photos/ulrika.jpg",
-                  bio: "Leder gruppen Control & Analys och har jobbat på Agria sedan februari 2021. 🐱 Katter är absoluta favoritdjuret!" },
+                  bio: "Leder gruppen Control & Analys och har jobbat på Agria sedan februari 2021. 🏡 På fritiden gärna i rörelse utomhus — och har blivit en fena på att skrapa, grundmåla och måla sedan de skaffade fritidshus, gärna med ljudbok i örat!" },
                 { name: "Erik Landén", role: "CFO", photo: "photos/erik.jpg",
                   bio: "CFO på Agria som leder CFO-avdelningen, har jobbat här sedan 2023. 🥞 Specialkompetens: steka pannkakor – över 1 000 stycken per år!" }
             ],
