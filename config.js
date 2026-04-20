@@ -38,8 +38,8 @@ Lär känna oss genom att spela Finn 5 Fel!`
     devMode: true,
 
     // Bilder (byt ut mot era riktiga bilder)
-    originalImage: "original.png",
-    errorsImage: "fel.png",
+    originalImage: "Original.png",
+    errorsImage: "Fel.png",
 
     // De 5 felen i bilden
     people: [
