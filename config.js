@@ -56,7 +56,7 @@ Lär känna oss genom att spela Finn 5 Fel!`
                 { name: "Anna Backman", role: "Aktuarie", photo: "photos/anna.jpg",
                   bio: "Arbetar med prissättning av katt- och hundförsäkringar i Finland och tar fram datadrivna analyser kring lönsamhet, kundbeteende och tillväxt. 🎿 Tävlade i skidskytte som yngre och var uttagen till ungdoms-SM!" },
                 { name: "Magnus Rosqvist Johansson", role: "Aktuarie", photo: "photos/magnus.jpg",
-                  bio: "Arbetar med prissättning med fokus på Tyskland och Danmark, och jobbar även med den nya prismotorn." },
+                  bio: "Arbetar med prissättning med fokus på Tyskland och Danmark, och jobbar även med den nya prismotorn. Har tidigare varit professionell pokerspelare." },
                 { name: "Stephanie Bergström", role: "Aktuarie", photo: "photos/stephanie.jpg",
                   bio: "Prissättningsaktuarie som ansvarar för prissättning och lönsamhetsanalyser för Sverige och Norge. Tar fram analyser och modeller som hjälper affären sätta rätt pris för rätt segment. 🥋 Har precis börjat med karate, oväntat kul och mycket skratt!" },
                 { name: "Veronicka Hjorter", role: "Functional Lead Pricing & Reserving", photo: "photos/veronicka.JPG",
